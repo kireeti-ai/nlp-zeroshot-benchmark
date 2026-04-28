@@ -1,0 +1,13 @@
+Model,Prompt,Accuracy,F1,Conf Gap,Sec/Article
+DistilBERT,Short,56.50%,0.555,0.08,0.01s
+DistilBERT,Descriptive,51.50%,0.471,0.04,0.01s
+DistilBERT,Hypothesis,71.50%,0.723,0.06,0.02s
+DistilBERT,Short,56.50%,0.555,0.08,0.01s
+DistilBERT,Descriptive,51.50%,0.471,0.04,0.01s
+DistilBERT,Hypothesis,71.50%,0.723,0.06,0.01s
+RoBERTa,Short,63.00%,0.588,0.14,0.02s
+RoBERTa,Descriptive,72.00%,0.701,0.21,0.02s
+RoBERTa,Hypothesis,77.50%,0.781,0.19,0.02s
+BART-large,Short,66.50%,0.631,0.12,0.07s
+BART-large,Descriptive,76.00%,0.744,0.13,0.08s
+BART-large,Hypothesis,77.00%,0.784,0.12,0.08s
