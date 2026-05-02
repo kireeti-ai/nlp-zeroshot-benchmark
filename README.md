@@ -8,7 +8,7 @@ A systematic comparison of three transformer models across three prompt strategi
 
 Classifies news articles into four categories — **World News, Sports, Business, Science & Technology** — without any task-specific training data. Instead of fine-tuning, it uses zero-shot classification via Natural Language Inference (NLI), testing how well different models and prompt styles perform out of the box.
 
-**Dataset:** AG News (200 test articles)  
+**Dataset:** AG News (300 test articles)  
 **Models tested:** 3  
 **Prompt strategies tested:** 3  
 **Total experiments:** 9  
